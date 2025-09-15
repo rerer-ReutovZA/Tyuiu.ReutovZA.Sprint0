@@ -1,0 +1,6 @@
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task4.V0.Lib\bin\Debug\Tyuiu.SpirinIS.Sprint0.Task4.V0.Lib.dll
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task4.V0.Lib\bin\Debug\Tyuiu.SpirinIS.Sprint0.Task4.V0.Lib.pdb
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task4.V0.Lib\obj\Debug\Tyuiu.SpirinIS.Sprint0.Task4.V0.Lib.csproj.AssemblyReference.cache
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task4.V0.Lib\obj\Debug\Tyuiu.SpirinIS.Sprint0.Task4.V0.Lib.csproj.CoreCompileInputs.cache
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task4.V0.Lib\obj\Debug\Tyuiu.SpirinIS.Sprint0.Task4.V0.Lib.dll
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task4.V0.Lib\obj\Debug\Tyuiu.SpirinIS.Sprint0.Task4.V0.Lib.pdb

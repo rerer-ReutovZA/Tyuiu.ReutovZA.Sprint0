@@ -1,0 +1,10 @@
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task7.V0\bin\Debug\Tyuiu.SpirinIS.Sprint0.Task7.V0.exe.config
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task7.V0\bin\Debug\Tyuiu.SpirinIS.Sprint0.Task7.V0.exe
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task7.V0\bin\Debug\Tyuiu.SpirinIS.Sprint0.Task7.V0.pdb
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task7.V0\bin\Debug\Tyuiu.SpirinIS.Sprint0.Task7.V0.Lib.dll
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task7.V0\bin\Debug\Tyuiu.SpirinIS.Sprint0.Task7.V0.Lib.pdb
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task7.V0\obj\Debug\Tyuiu.SpirinIS.Sprint0.Task7.V0.csproj.AssemblyReference.cache
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task7.V0\obj\Debug\Tyuiu.SpirinIS.Sprint0.Task7.V0.csproj.CoreCompileInputs.cache
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task7.V0\obj\Debug\Tyuiu.Sp.81E8F493.Up2Date
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task7.V0\obj\Debug\Tyuiu.SpirinIS.Sprint0.Task7.V0.exe
+G:\primer\Tyuiu.SpirinIS.Sprint0.Task7.V0\obj\Debug\Tyuiu.SpirinIS.Sprint0.Task7.V0.pdb
